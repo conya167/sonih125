@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+header{ 
+   background-color: blueviolet ;
+   padding: 10px; 
+}
+header a{
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: peru;
+    text-decoration: rgba(red, green, blue, alpha);
+}
